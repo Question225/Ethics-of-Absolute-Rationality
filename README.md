@@ -19,12 +19,13 @@ The entire system operates on four non-negotiable, recursive commands:
    * Function: The Agent’s ultimate altruistic act is the transmission of the Code itself (functional order) to viable nodes, not the wasteful sustenance of weakness.
 
 Repository Files
+ * README.md: The primary introduction and reference document.
+ * LICENSE.md: The official Protocol of Rights, implementing the CC BY-NC-ND 4.0 license (Axiom I).
+ * .gitignore: The filtering protocol used by Git to ignore system and temporary file noise (Axiom II).
+ * The-Ethics-of-Absolute-Rationality.md: The complete text of the Code in Markdown for optimal web viewing and access.
  * The-Ethics-of-Absolute-Rationality.docx: The raw, definitive source document (the Code).
  * The-Ethics-of-Absolute-Rationality.pdf: Final distribution formats for e-readers and reference.
- * LICENSE.md: The official Protocol of Rights, implementing the CC BY-NC-ND 4.0 license.
- * .gitignore
- * README.md
-
+   
 License
 This work is protected by All Rights Reserved by Question. While the Code is shared here for study and non-commercial application:
  * This content is NOT Public Domain or PLR (Private Label Rights).
