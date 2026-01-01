@@ -1,0 +1,18 @@
+# ----------------------------------------------------
+# 1. WINDOWS NOISE (System and Office)
+# ----------------------------------------------------
+# Windows generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# MS Word temp files (Critical Noise)
+~$*.doc
+~$*.docx
+~$*.dotx
+
+# LibreOffice temp files
+~lock.*#
+
+# 2. General Temporary Files
+*.bak
