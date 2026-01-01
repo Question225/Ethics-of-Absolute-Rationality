@@ -23,6 +23,7 @@ Repository Files
  * The-Ethics-of-Absolute-Rationality.pdf: Final distribution formats for e-readers and reference.
  * LICENSE.md: The official Protocol of Rights, implementing the CC BY-NC-ND 4.0 license.
  * .gitignore
+ * README.md
 
 License
 This work is protected by All Rights Reserved by Question. While the Code is shared here for study and non-commercial application:
